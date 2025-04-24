@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **MERN stack + AI integration projects**
 - 💬 Ask me about **Java, DSA, SQL, JavaScript, or AI**
 - 🎯 My Goal: **To crack a FAANG job with 50+ LPA package in 2025**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/your-link)**
+- 📫 How to reach me: **[LinkedIn](linkedin.com/in/pawanroy001)**
 
 ---
 
@@ -28,22 +28,22 @@
 ### 📄 ORCID ID
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-green)](https://orcid.org/0000-0000-0000-0000)
 
-> Replace the ID above with your actual ORCID.
+> This is my ORCID ID.
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Pawan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pawanroy001&show_icons=true&theme=radical" alt="Pawan's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanroy001&theme=radical" />
 </p>
 
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](linkedin.com/in/pawanroy001)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/PawanRoy001)
 
 
 <!--
