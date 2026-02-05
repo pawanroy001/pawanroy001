@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Tailwind CSS, Advanced Pandas, and Git**
 - 👯 I’m looking to collaborate on **MERN stack + AI integration projects**
 - 💬 Ask me about **Java, DSA, SQL, JavaScript, or AI**
-- 🎯 My Goal: **To crack a FAANG job with 50+ LPA package in 2025**
+- 🎯 My Goal: **To crack a FAANG job with 50+ LPA package**
 - 📫 How to reach me: **[LinkedIn](linkedin.com/in/pawanroy001)**
 
 ---
