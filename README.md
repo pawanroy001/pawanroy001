@@ -25,7 +25,7 @@
 ---
 
 ### 📄 ORCID ID
-[![ORCID](https://img.shields.io/badge/ORCID-0000-0000-0000-0000-green)](https://orcid.org/0009-0005-3777-7459)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--3777--7459-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-3777-7459)
 
 > This is my ORCID ID.
 
