@@ -4,10 +4,9 @@
 ---
 
 - 🔭 I’m currently working on **AI-powered Resume Screener Project**
-- 🌱 I’m currently learning **Tailwind CSS, Advanced Pandas, and Git**
-- 👯 I’m looking to collaborate on **MERN stack + AI integration projects**
-- 💬 Ask me about **Java, DSA, SQL, JavaScript, or AI**
-- 🎯 My Goal: **To crack a FAANG job with 50+ LPA package**
+- 🌱 I’m currently learning **Springboot, microservices, Advanced Pandas,Git, AI Automation**
+- 👯 I’m looking to collaborate on **java full satck + AI integration projects**
+- 💬 Ask me about **Java, DSA, SQL, JavaScript, or AI**  
 - 📫 How to reach me: **[LinkedIn](linkedin.com/in/pawanroy001)**
 
 ---
